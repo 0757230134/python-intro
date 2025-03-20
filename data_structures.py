@@ -40,12 +40,13 @@ print(top_5)
 
 # dictionary
 
-person = {"name": "Ronnie", "Age": 22, "Weight": 56}
+person = {"name": "Ronnie", "Age": 22, "Weight": 56,}
 print(person["name"])
 print(person["Age"])
+print(person["Weight"])
 
 # set
-days = {"mon", "tue", "wed", "thu", "fri", "sat", "sun", "mon"}
+days = {"mon", "tue", "wed", "thu","mon", "fri", "sat", "sun", "mon"}
 print(days)
 
 for s in scores:  # for each score in scores
