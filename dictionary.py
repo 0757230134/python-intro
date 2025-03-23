@@ -1,5 +1,3 @@
-from tkinter.font import names
-
 from loops import counter
 
 scores = [{"id": 1, "names": "Blane Middlemist", "mat": 74, "eng": 51, "kis": 69, "chem": 76, "bio": 55, "hist": 45},
@@ -138,17 +136,13 @@ scores = [{"id": 1, "names": "Blane Middlemist", "mat": 74, "eng": 51, "kis": 69
 for student in scores:
     # print(student ['kis'])
     total = student['kis'] + student['chem'] + student['bio'] + student['hist']
-
     student['total'] = total
 
-#print(scores[37])
-
-# sort by bio
 biology_sorted = sorted(scores, key=lambda k: k['total'], reverse=True)
 for s in biology_sorted:
     print(s['names'], s['total'])
-    counter+=1
-    if counter==10:
+    counter += 1
+    if counter == 35:
         break
 # slicing
 top_ten = biology_sorted[:-10]

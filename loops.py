@@ -10,8 +10,8 @@ while counter>=0:
             counter-=1 #decrementing by 1
             if counter == 35:
                 break
-counter =100
-while counter<=0:
+counter =0
+while counter<=100:
     print(counter)
     counter +=1 #incrementing by 1
     if counter ==35:
