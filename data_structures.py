@@ -1,6 +1,7 @@
 # data structures
 # collections
 # list, dictionary, set
+from loops import counter
 
 scores = [45, 35, 54, 67, 87, 77, 67, 57, 89, 34, 65, 57, 49, 73, 64, 38, 50, 93, 43, 22]
 
@@ -53,6 +54,8 @@ for s in scores:  # for each score in scores
     print(s)
     if s < 50:
         pass
+    if counter ==10:
+        break
     print(s)
 
 for d in days:  # for each day in days
