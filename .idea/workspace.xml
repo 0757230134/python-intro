@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15125033-8621-4342-8be1-8d2ea2931dfc" name="Changes" comment="practices">
-      <change afterPath="$PROJECT_DIR$/lambda_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_dates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions2_c.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions2_c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_dates.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +228,8 @@
       <workItem from="1742536182571" duration="2091000" />
       <workItem from="1742750359570" duration="13061000" />
       <workItem from="1742842060015" duration="598000" />
-      <workItem from="1742882974769" duration="5897000" />
+      <workItem from="1742882974769" duration="6265000" />
+      <workItem from="1742910618720" duration="2931000" />
     </task>
     <task id="LOCAL-00001" summary="Intro to python">
       <option name="closed" value="true" />
@@ -311,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742794416153</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="practices">
+      <option name="closed" value="true" />
+      <created>1742888963812</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742888963812</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,8 +360,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_intro$loops.coverage" NAME="loops Coverage Results" MODIFIED="1742752283748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_intro$functions2.coverage" NAME="functions2 Coverage Results" MODIFIED="1742842354297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_intro$functions2_b.coverage" NAME="functions2_b Coverage Results" MODIFIED="1742842194709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_intro$functions2.coverage" NAME="functions2 Coverage Results" MODIFIED="1742842354297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_intro$slicing.coverage" NAME="slicing Coverage Results" MODIFIED="1742794373813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_intro$lambda_functions.coverage" NAME="lambda_functions Coverage Results" MODIFIED="1742886241942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_intro$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1742746739652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -366,6 +374,6 @@
     <SUITE FILE_PATH="coverage/python_intro$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1742364744809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_intro$number_functions.coverage" NAME="number_functions Coverage Results" MODIFIED="1742362782392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_intro$functions.coverage" NAME="functions Coverage Results" MODIFIED="1742457303942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_intro$python_dates.coverage" NAME="python_dates Coverage Results" MODIFIED="1742888320020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_intro$python_dates.coverage" NAME="python_dates Coverage Results" MODIFIED="1742913559637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

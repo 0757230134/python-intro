@@ -8,7 +8,7 @@ def add_two_numbers(a, b):
 print(add_two_numbers(1, 2))
 
 add_two = lambda a, b: a + b
-print(add_two(1, 2))
+print(add_two(6, 2))
 
 scores = [{"eng": 23, "mat": 34}, {"eng": 45, "mat": 44}, {"eng": 45, "mat": 56}, {"eng": 45, "mat": 66}]
 
