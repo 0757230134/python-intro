@@ -6,7 +6,7 @@ def extract_amount(mpesa_message):
     index_sent=mpesa_message.index('sent')
     amount=mpesa_message[index_ksh:index_sent]
     amount = amount.replace('Ksh','')
-    amount = amount.replace(' ,','')
+    amount = amount.replace(' ,',' ')
     print(amount)
 
 
