@@ -9,7 +9,7 @@ def extract_amount(mpesa_message):
     amount = amount.replace(' ,',' ')
     print(amount)
 
-
+#TODO python allover
 def extract_date(mpesa_message):
     index_on = mpesa_message.index(' on ')
     index_at = mpesa_message.index(' at ')
