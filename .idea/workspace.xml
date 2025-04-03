@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15125033-8621-4342-8be1-8d2ea2931dfc" name="Changes" comment="files">
-      <change afterPath="$PROJECT_DIR$/python_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_classes2.py" afterDir="false" />
+    <list default="true" id="15125033-8621-4342-8be1-8d2ea2931dfc" name="Changes" comment="classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,8 +84,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.python_classes2">
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.data_types">
+    <configuration name="data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-intro" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.data_types" />
         <item itemvalue="Python.python_classes2" />
         <item itemvalue="Python.python_classes (1)" />
         <item itemvalue="Python.python_classes" />
         <item itemvalue="Python.txt_to_img" />
-        <item itemvalue="Python.files" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +245,8 @@
       <workItem from="1743104376411" duration="2162000" />
       <workItem from="1743139161270" duration="358000" />
       <workItem from="1743325968355" duration="2903000" />
+      <workItem from="1743573114365" duration="128000" />
+      <workItem from="1743573288163" duration="1566000" />
     </task>
     <task id="LOCAL-00001" summary="Intro to python">
       <option name="closed" value="true" />
@@ -376,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743139375413</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="classes">
+      <option name="closed" value="true" />
+      <created>1743573183858</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1743573183858</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,7 +413,8 @@
     <MESSAGE value=" more pracs" />
     <MESSAGE value=" corrected files" />
     <MESSAGE value="files" />
-    <option name="LAST_COMMIT_MESSAGE" value="files" />
+    <MESSAGE value="classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
